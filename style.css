@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 10px;
+  min-width: 400px;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 4px;
+  padding: 10px;
+  border: 1px solid #5f9341;
+  outline: none;
+}
+
+button {
+  padding: 10px 20px;
+  outline: none;
+  background-color: #5f9341;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border: 1px solid #5f9341;
+}
+
+#delBtn {
+  color: #5f9341;
+  background-color: white;
+}
+
+ul {
+  list-style: none;
+  padding-left: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  color: #5f9341;
+}
